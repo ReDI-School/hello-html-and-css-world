@@ -6,7 +6,7 @@ css basics.
 To work on it, ask your teacher to add your GitHub account. Then you
 can clone it with
 
-    git clone git@github.com:ReDI-School/hello-html-and-css-world.git
+    git clone https://github.com/ReDI-School/hello-html-and-css-world.git
 
 This creates a new directory `hello-html-and-css-world` with all the
 files of this repository. `cd` into it, then start editing.
